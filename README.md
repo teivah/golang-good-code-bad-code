@@ -1,1 +1,1 @@
-# golang-good-code-bad-code
+# Good code vs Bad code in Golang
